@@ -6,7 +6,7 @@
 
 I build native mobile apps for **Android** and **iOS**, with a focus on clean architecture and reliable Bluetooth LE connectivity.
 
-🏢 [MedicalSystemLab](https://github.com/MedicalSystemLab) &nbsp;·&nbsp; 📍 Daejeon, South Korea
+🏢&nbsp;[MedicalSystemLab](https://github.com/MedicalSystemLab) &nbsp;·&nbsp; 📍&nbsp;Daejeon,&nbsp;South&nbsp;Korea
 
 </div>
 
