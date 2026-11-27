@@ -12,10 +12,12 @@ I build native mobile apps for **Android** and **iOS**, with a focus on clean ar
 
 ## 🛠️ Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Cjava%2Candroidstudio%2Cgradle%2Cswift%2Cgit%2Cgithub&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=kotlin%2Cjava%2Candroidstudio%2Cgradle%2Cswift%2Cgit%2Cgithub&theme=light" alt="Kotlin, Java, Android Studio, Gradle, Swift, Git, GitHub"/>
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Cjava%2Candroidstudio%2Cgradle%2Cswift%2Cgit%2Cgithub&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=kotlin%2Cjava%2Candroidstudio%2Cgradle%2Cswift%2Cgit%2Cgithub&theme=light" alt="Kotlin, Java, Android Studio, Gradle, Swift, Git, GitHub"/>
+  </picture>
+</p>
 
 | Platform | Frameworks & Libraries |
 |:---|:---|
