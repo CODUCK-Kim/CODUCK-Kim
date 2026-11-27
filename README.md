@@ -25,9 +25,9 @@ I build native mobile apps for **Android** and **iOS**, with a focus on clean ar
 | **iOS** | UIKit · Combine · SwiftUI |
 | **Common** | Bluetooth LE · REST · Socket.IO |
 
-## 🌱 Contributions
+## 📊 Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CODUCK-Kim/CODUCK-Kim/output/snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/CODUCK-Kim/CODUCK-Kim/output/snake-light.svg" width="100%" alt="Contribution graph with a snake eating the squares"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CODUCK-Kim/CODUCK-Kim/output/contributions-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/CODUCK-Kim/CODUCK-Kim/output/contributions-light.svg" alt="Contribution summary with totals and monthly contributions for the last 12 months"/>
 </picture>
