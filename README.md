@@ -12,11 +12,16 @@ I build native mobile apps for **Android** and **iOS**, with a focus on clean ar
 
 ## 🛠️ Tech Stack
 
-| Platform | Stack |
-|:---:|:---|
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Cjava%2Candroidstudio&theme=dark"/><img src="https://skillicons.dev/icons?i=kotlin%2Cjava%2Candroidstudio&theme=light" height="32" alt="Kotlin, Java, Android Studio"/></picture><br/>**Android** | Jetpack Compose · Coroutines & Flow · Hilt · Room · Gradle |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift&theme=dark"/><img src="https://skillicons.dev/icons?i=swift&theme=light" height="32" alt="Swift"/></picture><br/>**iOS** | UIKit · Combine · SwiftUI · Xcode |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub&theme=dark"/><img src="https://skillicons.dev/icons?i=git%2Cgithub&theme=light" height="32" alt="Git, GitHub"/></picture><br/>**Common** | Bluetooth LE · REST · Socket.IO |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Cjava%2Candroidstudio%2Cgradle%2Cswift%2Cgit%2Cgithub&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=kotlin%2Cjava%2Candroidstudio%2Cgradle%2Cswift%2Cgit%2Cgithub&theme=light" alt="Kotlin, Java, Android Studio, Gradle, Swift, Git, GitHub"/>
+</picture>
+
+| Platform | Frameworks & Libraries |
+|:---|:---|
+| **Android** | Jetpack Compose · Coroutines & Flow · Hilt · Room |
+| **iOS** | UIKit · Combine · SwiftUI |
+| **Common** | Bluetooth LE · REST · Socket.IO |
 
 ## 🌱 Contributions
 
