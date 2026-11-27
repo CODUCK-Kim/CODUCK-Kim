@@ -19,7 +19,7 @@ with a focus on clean architecture and reliable Bluetooth LE connectivity.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,java,androidstudio,swift,apple,gradle,git,github&theme=dark"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Cjava%2Candroidstudio%2Cswift%2Capple%2Cgradle%2Cgit%2Cgithub&theme=dark"/>
     <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,swift,apple,gradle,git,github&theme=light" alt="Kotlin, Java, Android Studio, Swift, Apple, Gradle, Git, GitHub"/>
   </picture>
 </div>
