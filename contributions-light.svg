@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="270" viewBox="0 0 520 270" role="img" aria-labelledby="title">
+  <title id="title">946 contributions in the last 12 months, 296 this month, 96 active days</title>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6A3DE8"/>
+      <stop offset="1" stop-color="#0B7BD8"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#0B7BD8"/>
+      <stop offset="1" stop-color="#6A3DE8"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+    .stat { font-size: 30px; font-weight: 700; fill: url(#accent); }
+    .label { font-size: 14px; fill: #59636e; }
+    .caption { font-size: 14px; font-weight: 600; fill: #1f2328; }
+    .updated { font-size: 12px; fill: #59636e; text-anchor: end; }
+    .value { font-size: 12px; fill: #59636e; text-anchor: middle; }
+    .month { font-size: 13px; fill: #59636e; text-anchor: middle; }
+    .month.current { fill: #1f2328; font-weight: 600; }
+    .bar { transform-box: fill-box; transform-origin: bottom; animation: grow 700ms cubic-bezier(.2,.8,.2,1) both; }
+    .fade { animation: fade 600ms ease-out both; }
+    @keyframes grow { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" width="519" height="269" rx="12" fill="#f6f8fa" stroke="#d1d9e0"/>
+  
+    <g class="fade" style="animation-delay:0ms">
+      <text x="20" y="58" class="stat">946</text>
+      <text x="20" y="80" class="label">Last 12 months</text>
+    </g>
+    <g class="fade" style="animation-delay:80ms">
+      <text x="180" y="58" class="stat">296</text>
+      <text x="180" y="80" class="label">This month</text>
+    </g>
+    <g class="fade" style="animation-delay:160ms">
+      <text x="340" y="58" class="stat">96</text>
+      <text x="340" y="80" class="label">Active days</text>
+    </g>
+  <line x1="20" y1="104" x2="500" y2="104" stroke="#d1d9e0"/>
+  <text x="20" y="128" class="caption">Monthly contributions</text>
+  <text x="500" y="128" class="updated">Updated Nov 27, 2026</text>
+  
+    <rect x="29" y="230" width="22" height="2" rx="1" fill="#d1d9e0"/>
+    <text x="40" y="252" class="month">Dec</text>
+    <rect x="69" y="230" width="22" height="2" rx="1" fill="#d1d9e0"/>
+    <text x="80" y="252" class="month">Jan</text>
+    <rect x="109" y="230" width="22" height="2" rx="1" fill="#d1d9e0"/>
+    <text x="120" y="252" class="month">Feb</text>
+    <rect x="149" y="230" width="22" height="2" rx="1" fill="#d1d9e0"/>
+    <text x="160" y="252" class="month">Mar</text>
+    <rect x="189" y="228" width="22" height="4" rx="2" fill="url(#bar)" class="bar" style="animation-delay:160ms"/>
+    <text x="200" y="222" class="value fade" style="animation-delay:460ms">7</text>
+    <text x="200" y="252" class="month">Apr</text>
+    <rect x="229" y="230" width="22" height="2" rx="1" fill="#d1d9e0"/>
+    <text x="240" y="252" class="month">May</text>
+    <rect x="269" y="228" width="22" height="4" rx="2" fill="url(#bar)" class="bar" style="animation-delay:240ms"/>
+    <text x="280" y="222" class="value fade" style="animation-delay:540ms">1</text>
+    <text x="280" y="252" class="month">Jun</text>
+    <rect x="309" y="197" width="22" height="35" rx="5" fill="url(#bar)" class="bar" style="animation-delay:280ms"/>
+    <text x="320" y="191" class="value fade" style="animation-delay:580ms">147</text>
+    <text x="320" y="252" class="month">Jul</text>
+    <rect x="349" y="200" width="22" height="32" rx="5" fill="url(#bar)" class="bar" style="animation-delay:320ms"/>
+    <text x="360" y="194" class="value fade" style="animation-delay:620ms">134</text>
+    <text x="360" y="252" class="month">Aug</text>
+    <rect x="389" y="180" width="22" height="52" rx="5" fill="url(#bar)" class="bar" style="animation-delay:360ms"/>
+    <text x="400" y="174" class="value fade" style="animation-delay:660ms">218</text>
+    <text x="400" y="252" class="month">Sep</text>
+    <rect x="429" y="198" width="22" height="34" rx="5" fill="url(#bar)" class="bar" style="animation-delay:400ms"/>
+    <text x="440" y="192" class="value fade" style="animation-delay:700ms">143</text>
+    <text x="440" y="252" class="month">Oct</text>
+    <rect x="469" y="162" width="22" height="70" rx="5" fill="url(#bar)" class="bar" style="animation-delay:440ms"/>
+    <text x="480" y="156" class="value fade" style="animation-delay:740ms">296</text>
+    <text x="480" y="252" class="month current">Nov</text>
+</svg>
