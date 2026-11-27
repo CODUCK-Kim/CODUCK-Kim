@@ -35,4 +35,15 @@ with a focus on clean architecture and reliable Bluetooth LE connectivity.
 
 <br/>
 
+## 🌱 Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CODUCK-Kim/CODUCK-Kim/output/snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/CODUCK-Kim/CODUCK-Kim/output/snake-light.svg" width="100%" alt="Contribution graph with a snake eating the squares"/>
+  </picture>
+</div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7F52FF,100:0D96F6&section=footer" width="100%" alt=""/>
